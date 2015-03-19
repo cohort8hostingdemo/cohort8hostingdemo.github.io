@@ -1,0 +1,16 @@
+{
+  "name": "cohort8hostingdemo.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cohort8hostingdemo/cohort8hostingdemo.github.io",
+  "authors": [
+    "Scott <scott@sscotth.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
